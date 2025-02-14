@@ -40,8 +40,8 @@ jobs:
 
     - name: Commit and push if changed
       run: |
-            git config --local user.email "zhuxinfu@sohu.com"
-            git config --local user.name "zhuxinfu88"
+            git config --local user.email "weizhe978@gmail.com"
+            git config --local user.name "weizhe940605"
             if [ -n "$(git status --porcelain)" ]; then
             git commit -am "Automatic update"
             git push -f
