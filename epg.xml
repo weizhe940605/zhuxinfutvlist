@@ -12258,6 +12258,12 @@
 	<programme channel="咪咕足球" start="20260526040500 +0800" stop="20260526044000 +0800">
 		<title lang="zh">西班牙篮球黄金一代04 打败法国队吧</title>
 	</programme>
+	<programme channel="咪咕足球" start="20260526044000 +0800" stop="20260526045000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260526045000 +0800" stop="20260526062500 +0800">
+		<title lang="zh">我爱女篮-25/26WCBA常规赛 第6轮 山东赤水河酒-新疆天山</title>
+	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
 	</channel>
@@ -36912,6 +36918,9 @@
 	<programme channel="newtv超级综艺" start="20260526035200 +0800" stop="20260526053600 +0800">
 		<title lang="zh">影视留声机</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260526053600 +0800" stop="20260526065200 +0800">
+		<title lang="zh">乡村音乐大会</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -36927,6 +36936,12 @@
 	<programme channel="newtv超级体育" start="20260526040000 +0800" stop="20260526053000 +0800">
 		<title lang="zh">英超第29轮:伍尔弗汉普顿-利物浦</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20260526053000 +0800" stop="20260526060000 +0800">
+		<title lang="zh">2026年射箭世界杯中国站</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20260526060000 +0800" stop="20260526063000 +0800">
+		<title lang="zh">2026年艺术体操世界杯巴库站</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -36938,6 +36953,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20260526034300 +0800" stop="20260526051800 +0800">
 		<title lang="zh">燕赤霞猎妖传</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260526051800 +0800" stop="20260526064100 +0800">
+		<title lang="zh">梦想之门</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -36962,6 +36980,12 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260526043100 +0800" stop="20260526051600 +0800">
 		<title lang="zh">12_上海滩生死较量</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260526051600 +0800" stop="20260526060100 +0800">
+		<title lang="zh">13_上海滩生死较量</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260526060100 +0800" stop="20260526064600 +0800">
+		<title lang="zh">14_上海滩生死较量</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -37532,6 +37556,12 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260526041800 +0800" stop="20260526050200 +0800">
 		<title lang="zh">13_秋蝉</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260526050200 +0800" stop="20260526054500 +0800">
+		<title lang="zh">14_秋蝉</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260526054500 +0800" stop="20260526061500 +0800">
+		<title lang="zh">蛋黄酥好物推荐</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
