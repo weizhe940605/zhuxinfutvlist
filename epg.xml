@@ -16338,6 +16338,12 @@
 	<programme channel="咪咕综合体育" start="20260531010500 +0800" stop="20260531034500 +0800">
 		<title lang="zh">网球世界-2026WTA多哈站女单第2轮 帕克斯-郑钦文</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20260531034500 +0800" stop="20260531040000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20260531040000 +0800" stop="20260531055500 +0800">
+		<title lang="zh">2025第十二届浪琴表北京国际马术大师赛第二日1</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -16352,6 +16358,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20260531022000 +0800" stop="20260531040000 +0800">
 		<title lang="zh">2025NBL联赛 常规赛第12轮 香港金牛-合肥狂风峻茂</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260531040000 +0800" stop="20260531040500 +0800">
+		<title lang="zh">频道宣传</title>
 	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
@@ -49956,6 +49965,12 @@
 	<programme channel="newtv超级综艺" start="20260531014900 +0800" stop="20260531024000 +0800">
 		<title lang="zh">28_启航：当风起时</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260531024000 +0800" stop="20260531033300 +0800">
+		<title lang="zh">29_启航：当风起时</title>
+	</programme>
+	<programme channel="newtv超级综艺" start="20260531033300 +0800" stop="20260531042800 +0800">
+		<title lang="zh">30_启航：当风起时</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -49965,6 +49980,12 @@
 	<programme channel="newtv超级体育" start="20260531010500 +0800" stop="20260531023600 +0800">
 		<title lang="zh">实况录像-2025年世界田联钻石联赛 尤金站</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20260531023600 +0800" stop="20260531040000 +0800">
+		<title lang="zh">实况录像-2025/2026赛季中国男子篮球职业联赛 半决赛 8</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20260531040000 +0800" stop="20260531053000 +0800">
+		<title lang="zh">国际足球赛场-25-26赛季英超联赛第30轮 曼联-阿斯顿维拉</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -49973,6 +49994,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20260531013400 +0800" stop="20260531025000 +0800">
 		<title lang="zh">毒战生死线2</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260531025000 +0800" stop="20260531042000 +0800">
+		<title lang="zh">公证人之深度危机</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -49988,6 +50012,15 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260531022000 +0800" stop="20260531030300 +0800">
 		<title lang="zh">07_三十而已</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260531030300 +0800" stop="20260531034900 +0800">
+		<title lang="zh">08_三十而已</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260531034900 +0800" stop="20260531035400 +0800">
+		<title lang="zh">星推荐</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260531035400 +0800" stop="20260531043900 +0800">
+		<title lang="zh">31_上海滩生死较量</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -50546,6 +50579,12 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260531015900 +0800" stop="20260531024400 +0800">
 		<title lang="zh">42_红蔷薇（DVD版）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260531024400 +0800" stop="20260531033000 +0800">
+		<title lang="zh">43_红蔷薇（DVD版）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260531033000 +0800" stop="20260531041500 +0800">
+		<title lang="zh">44_红蔷薇（DVD版）</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
