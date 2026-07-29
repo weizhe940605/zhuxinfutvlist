@@ -16749,11 +16749,17 @@
 	<programme channel="咪咕综合体育" start="20260730001500 +0800" stop="20260730005500 +0800">
 		<title lang="zh">纪录片拜仁慕尼黑：传奇背后 第一集</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20260730010000 +0800" stop="20260730035500 +0800">
+		<title lang="zh">JCK觉城之夜N121期</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
 	<programme channel="咪咕足球" start="20260730000500 +0800" stop="20260730014000 +0800">
 		<title lang="zh">2026中国男篮系列热身赛 第一场 中国男篮-塞尔维亚FMP俱乐部</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260730015000 +0800" stop="20260730021000 +0800">
+		<title lang="zh">荣耀之路</title>
 	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
@@ -50769,89 +50775,35 @@
 	<programme channel="newtv超级综艺" start="20260730000400 +0800" stop="20260730005900 +0800">
 		<title lang="zh">08_亲爱的仇敌</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260730005900 +0800" stop="20260730014600 +0800">
+		<title lang="zh">09_亲爱的仇敌</title>
+	</programme>
+	<programme channel="newtv超级综艺" start="20260730014600 +0800" stop="20260730023600 +0800">
+		<title lang="zh">10_亲爱的仇敌</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
-	<programme channel="newtv超级体育" start="20260730000000 +0800" stop="20260730020000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级体育" start="20260730020000 +0800" stop="20260730040000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级体育" start="20260730060000 +0800" stop="20260730080000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级体育" start="20260730080000 +0800" stop="20260730100600 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级体育" start="20260730100600 +0800" stop="20260730120000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级体育" start="20260730120000 +0800" stop="20260730140000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级体育" start="20260730140000 +0800" stop="20260730160000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级体育" start="20260730160000 +0800" stop="20260730180000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级体育" start="20260730180000 +0800" stop="20260730190000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级体育" start="20260730190000 +0800" stop="20260730200000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级体育" start="20260730200000 +0800" stop="20260730220000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级体育" start="20260730220000 +0800" stop="20260730235900 +0800">
-		<title lang="zh">精彩节目</title>
+	<programme channel="newtv超级体育" start="20260730010600 +0800" stop="20260730023600 +0800">
+		<title lang="zh">实况录像-2026世界杯 1/4决赛 挪威队-英格兰队</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
-	<programme channel="newtv超级电影" start="20260730000000 +0800" stop="20260730020000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级电影" start="20260730020000 +0800" stop="20260730040000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级电影" start="20260730060000 +0800" stop="20260730080000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级电影" start="20260730080000 +0800" stop="20260730100600 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级电影" start="20260730100600 +0800" stop="20260730120000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级电影" start="20260730120000 +0800" stop="20260730140000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级电影" start="20260730140000 +0800" stop="20260730160000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级电影" start="20260730160000 +0800" stop="20260730180000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级电影" start="20260730180000 +0800" stop="20260730190000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级电影" start="20260730190000 +0800" stop="20260730200000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级电影" start="20260730200000 +0800" stop="20260730220000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级电影" start="20260730220000 +0800" stop="20260730235900 +0800">
-		<title lang="zh">精彩节目</title>
+	<programme channel="newtv超级电影" start="20260730003800 +0800" stop="20260730023500 +0800">
+		<title lang="zh">他和她的故事</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
 	<programme channel="newtv超级电视剧" start="20260730000300 +0800" stop="20260730004800 +0800">
 		<title lang="zh">22_刑警的日子</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260730004800 +0800" stop="20260730013300 +0800">
+		<title lang="zh">23_刑警的日子</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260730013300 +0800" stop="20260730021900 +0800">
+		<title lang="zh">24_刑警的日子</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -51404,6 +51356,12 @@
 	</channel>
 	<programme channel="newtv金牌综艺" start="20260730001300 +0800" stop="20260730005800 +0800">
 		<title lang="zh">06_密战无声</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260730005800 +0800" stop="20260730014300 +0800">
+		<title lang="zh">07_密战无声</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260730014300 +0800" stop="20260730021300 +0800">
+		<title lang="zh">杏花村好物推荐</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
