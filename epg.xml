@@ -16221,6 +16221,12 @@
 	<programme channel="咪咕综合体育" start="20261022012500 +0800" stop="20261022033000 +0800">
 		<title lang="zh">UFC格斗之夜上海站 主赛</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20261022033500 +0800" stop="20261022040000 +0800">
+		<title lang="zh">中超精华 第23轮</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20261022040500 +0800" stop="20261022070000 +0800">
+		<title lang="zh">小众项目-2026国际马联马术场地障碍世界杯 西欧联赛</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -16235,6 +16241,12 @@
 	</programme>
 	<programme channel="咪咕足球" start="20261022022000 +0800" stop="20261022035500 +0800">
 		<title lang="zh">2026FIBA洲际杯 季军赛 博卡青年-RSSB老虎</title>
+	</programme>
+	<programme channel="咪咕足球" start="20261022040500 +0800" stop="20261022044000 +0800">
+		<title lang="zh">西班牙篮球黄金一代02 篮球万岁</title>
+	</programme>
+	<programme channel="咪咕足球" start="20261022045000 +0800" stop="20261022062000 +0800">
+		<title lang="zh">我爱女篮-25/26WCBA常规赛 第8轮 武汉盛帆黄鹤-陕西榆林天泽</title>
 	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
@@ -49503,6 +49515,12 @@
 	<programme channel="newtv超级综艺" start="20261022023900 +0800" stop="20261022032600 +0800">
 		<title lang="zh">27_长安的荔枝</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20261022032600 +0800" stop="20261022041300 +0800">
+		<title lang="zh">28_长安的荔枝</title>
+	</programme>
+	<programme channel="newtv超级综艺" start="20261022041300 +0800" stop="20261022065200 +0800">
+		<title lang="zh">影视留声机</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -49512,6 +49530,15 @@
 	<programme channel="newtv超级体育" start="20261022013000 +0800" stop="20261022040000 +0800">
 		<title lang="zh">2026年世界体操锦标赛-女子团体决赛</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20261022040000 +0800" stop="20261022053000 +0800">
+		<title lang="zh">实况录像-2026年世界田联钻石联赛 洛桑站</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20261022053000 +0800" stop="20261022060000 +0800">
+		<title lang="zh">实况录像-2026年射箭世界杯 西班牙站 1</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20261022060000 +0800" stop="20261022063000 +0800">
+		<title lang="zh">2026/2027法国足球甲级联赛-第3轮集锦</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -49520,6 +49547,12 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20261022030600 +0800" stop="20261022041000 +0800">
 		<title lang="zh">加油！田大志</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20261022041000 +0800" stop="20261022054000 +0800">
+		<title lang="zh">落难神偷</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20261022054000 +0800" stop="20261022065900 +0800">
+		<title lang="zh">铁血护卫之异种入侵</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -49538,6 +49571,18 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20261022030400 +0800" stop="20261022034700 +0800">
 		<title lang="zh">38_红高粱</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20261022034700 +0800" stop="20261022043000 +0800">
+		<title lang="zh">39_红高粱</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20261022043000 +0800" stop="20261022051300 +0800">
+		<title lang="zh">40_红高粱</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20261022051300 +0800" stop="20261022055600 +0800">
+		<title lang="zh">41_红高粱</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20261022055600 +0800" stop="20261022064100 +0800">
+		<title lang="zh">32_无所畏惧之永不放弃</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -50105,6 +50150,18 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20261022030800 +0800" stop="20261022035400 +0800">
 		<title lang="zh">02_宿敌</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20261022035400 +0800" stop="20261022044000 +0800">
+		<title lang="zh">03_宿敌</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20261022044000 +0800" stop="20261022051000 +0800">
+		<title lang="zh">珍膳私享特膳粉好物推荐第二期</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20261022051000 +0800" stop="20261022055600 +0800">
+		<title lang="zh">04_宿敌</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20261022055600 +0800" stop="20261022062600 +0800">
+		<title lang="zh">珍膳私享特膳粉好物推荐第二期</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
